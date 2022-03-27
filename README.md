@@ -17,7 +17,7 @@ This is a program that helps you find your way on SeoulTech campus.
 
 &nbsp; In addition, maps and signs within the school are lacking, and visibility is poor, making it difficult to navigate. The SNUT RoadSign project was undertaken to solve these difficulties.
 
-=> [Project Description (detail)](https://star7sss.tistory.com/331?category=913213) (My Blog)
+=> [Project Description (detail)](https://star7sss.tistory.com/331) (My Blog)
 
 ## Getting Started
 **click `Code - Download ZIP` and  unzip it**
